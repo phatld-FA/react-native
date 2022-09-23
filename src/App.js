@@ -1,9 +1,8 @@
-
+import AppSection from './section12/App';
 
 function App() {
-
   return (
-    <p>HEllo</p>
+    <AppSection />
   );
 }
 
