@@ -12,3 +12,6 @@ useCallback(() => {
 
 + Được sử dụng để tối ưu quá trình render
 + Nếu trong có trả trị trong "[]" thì sẽ chỉ call 1 lần, ngược lại có thì sẽ call mỗi lần có thay đổi
+
+### Call http
+https://axios-http.com/
